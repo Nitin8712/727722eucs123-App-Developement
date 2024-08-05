@@ -1,0 +1,183 @@
+{
+  "users": [
+    {
+      "id": "a594",
+      "name": "MANO VIGNESH S",
+      "email": "manoat7575@gmail.com",
+      "password": "2x!mBWAig3u!Mf-",
+      "role": "organiser"
+    },
+    {
+      "id": "1ddf",
+      "name": "MANO VIGNESH S",
+      "email": "man@gmail.com",
+      "password": "2x!mBWAig3u!Mf-",
+      "role": "manager"
+    },
+    {
+      "id": "418f",
+      "name": "MANO VIGNESH S",
+      "email": "m5@gmail.com",
+      "password": "2x!mBWAig3u!Mf-",
+      "role": "manager"
+    }
+  ],
+  "events": [
+    {
+      "id": "2",
+      "name": "MANO VIGNESH S",
+      "location": "cbe",
+      "rating": 6.7,
+      "reviewCount": 678,
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCPINTCkf//Z",
+      "amenities": [
+        "cbe"
+      ],
+      "description": "hello",
+      "recentReview": "nothig",
+      "basePrice": 2000
+    },
+    {
+      "id": "1",
+      "name": "Hotel Park Elanza Coimbatore",
+      "location": "Ram Nagar, Coimbatore",
+      "rating": 8.5,
+      "reviewCount": 1717,
+      "image": "https://example.com/hotel-image.jpg",
+      "amenities": [
+        "Valet parking",
+        "Airport transfer"
+      ],
+      "description": "One of the best class hotel in moderate budget and the staff are good and polite. If need to stay in coimbatore Would recommend Park ELANza the best..",
+      "recentReview": "Great hotel with excellent service!",
+      "basePrice": 5841
+    },
+    {
+      "id": "6",
+      "name": "Birth Day",
+      "location": "Rs",
+      "rating": 8.4,
+      "reviewCount": 389,
+      "image": "https://www.bing.com/th?id=OIP.p1g3AsNxPleJ-2kRwbVF4QHaC1&w=240&h=120&c=7&o=6&dpr=1.3&pid=SupCap",
+      "amenities": [
+        "Parking Wifi"
+      ],
+      "description": "Best",
+      "recentReview": "good food",
+      "basePrice": 2000
+    },
+    {
+      "id": "145",
+      "name": "meetup",
+      "location": "cbe",
+      "rating": -0.4,
+      "reviewCount": 204,
+      "image": "data:image/jpeg;base64,/9j/oAgKAICgCAoAgKAICgCAoAgKAICgCAoAgKAICgCAoAgKAICgD//Z",
+      "amenities": [
+        "parking space",
+        "toilet"
+      ],
+      "description": "fans meet up",
+      "recentReview": "good",
+      "basePrice": 5000
+    },
+    {
+      "id": "7",
+      "name": "meetup",
+      "location": "cbe",
+      "rating": -0.4,
+      "reviewCount": 204,
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsJCQcJCQcJCQkJCwkJCQkJCQsJCwsMCwsLDA0QDBEODQ4MEhkSJRodJR0ZHxwpKRYlNzU2GioyPi0pMBk7IRP/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCADqAWADASIAAhEBAxEB/8QAGwABAQADAQEBAAAAAAAAAAAAAAEFBgcEAgP/xAA7EAACAgIBAgQEBAMHAgcAAAAAAQIDBBEFEiEGEzGBQVFhcRQikaEyQrEjJFJicsHRFYIzVHSDkqKz/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAIEAQMGBQf/xAAyEQEAAQMCBAIIBQUAAAAAAAAAAQIDEQQFEiExQRNRBiJhcYGhwdEjMpGx4RQzQlJy/9oADAMBAAIRAxEAPwDrW2NsABtjbAAbY2wAG2NsABtjbAAbY2wAG2NsABtjbAAbY2wAG2NsABtjbAAbY2wAG2NsABtjbAAbY2wAG2NsABtjbAAbY2wAG2NsABtjbAAbY2wAG2NsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVEKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEKGBAAAAAAAAAAAKiFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwGBAAAAAAAAAAAKiFQAAAAAAAH/AAbJsP3AoPnaRdoCgAAAAAAAD3IR/77Bl9b+o39TUuf8AE+bxOfDEoxsa2HkVXTlc7FLc3Lsul6+C+Bn+Mzo8lgYecq3X+JqVnRJ7cfg1shFcTOFy7or1mzRfrjFNXR7gRFJqYAAAAAAAAAAAAABgMCAAAAAAAAAAAVEKgAAAAAASTS7vSSTbbekku+22Ga/4tz3hc",
+      "amenities": [
+        "parking space",
+        "toilet"
+      ],
+      "description": "good",
+      "recentReview": "0",
+      "basePrice": 5000
+    },
+    {
+      "id": "1000",
+      "name": "Dans",
+      "location": "cbe",
+      "rating": -0.4,
+      "reviewCount": 204,
+      "image": "data",
+      "amenities": [
+        "parking space",
+        "toilet"
+      ],
+      "description": "ok",
+      "recentReview": "100",
+      "basePrice": 1
+    }
+  ],
+  "bookings": [
+    {
+      "id": "8531",
+      "organizer": {},
+      "name": "MANO VIGNESH S",
+      "date": "5678-04-23",
+      "time": "14:34",
+      "address": "6/265.0.1  Gandhi Nagar ,Sirumugai  ,Mettupalayam",
+      "phone": "09976537575",
+      "numberOfPeople": 1,
+      "cost": 50
+    },
+    {
+      "id": "9439",
+      "organizer": {},
+      "name": "MANO VIGNESH S",
+      "date": "5679-04-23",
+      "time": "17:06",
+      "address": "6/265.0.1  Gandhi Nagar ,Sirumugai  ,Mettupalayam",
+      "phone": "09976537575",
+      "numberOfPeople": 1,
+      "cost": 50
+    },
+    {
+      "id": "5906",
+      "organizer": {},
+      "name": "MANO VIGNESH S",
+      "date": "4689-04-12",
+      "time": "12:56",
+      "address": "6/265.0.1  Gandhi Nagar ,Sirumugai  ,Mettupalayam",
+      "phone": "09976537575",
+      "numberOfPeople": 1,
+      "cost": 50
+    },
+    {
+      "id": "debe",
+      "organizer": {},
+      "name": "MANO VIGNESH S",
+      "date": "4569-03-12",
+      "time": "18:07",
+      "address": "6/265.0.1  Gandhi Nagar ,Sirumugai  ,Mettupalayam",
+      "phone": "09976537575",
+      "numberOfPeople": 1,
+      "cost": 50
+    },
+    {
+      "id": "7b51",
+      "organizer": {},
+      "name": "MANO VIGNESH S",
+      "date": "6789-05-31",
+      "time": "13:04",
+      "address": "6/265.0.1  Gandhi Nagar ,Sirumugai  ,Mettupalayam",
+      "phone": "09976537575",
+      "numberOfPeople": 1,
+      "cost": 50
+    },
+    {
+      "id": "3c4d",
+      "organizer": {},
+      "name": "MANO VIGNESH S",
+      "date": "6789-05-04",
+      "time": "16:56",
+      "address": "6/265.0.1  Gandhi Nagar ,Sirumugai  ,Mettupalayam",
+      "phone": "09976537575",
+      "numberOfPeople": 1,
+      "cost": 50
+    }
+  ]
+}
